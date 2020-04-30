@@ -1,0 +1,27 @@
+Biographie :
+	Je m’appelle Kimberley Blomme et je suis née le 5 novembre 2000 en Belgique. Je suis actuellement étudiante en art à l’ESA Saint-Luc, en deuxième année d’art numérique.
+
+ ==> Save the bat
+
+Synopsis :
+	Le spectateur aura devant lui un shéma de chauve-souris sur lequel il pourra placé des images que la cam reconnaitra. À l'écran , il s'affichera l'organe correspondant à l'image montrée, avec probablement un text supplémentaire indiquant l'état de l'organe. Sachant qu'il y aura des organes tels quel (organiques) et des organes plus méchanique/bioméchanique. Dès lors, les organes "normaux" seront, pour la pluspart, en mauvais état et il faudra donc les "remplacer".
+
+Note d’intention :
+	Pourquoi la chauve-souris?: parce que c'est un animal sur lequel on fait déjà des recherches en therme de transhumanisme/transanimalisme, notamment dû au fait qu'elle possède une "immuté" aux virus. En plus je me suis dit que c'était le moment idéal à cause du Covid-19. Bref, tout ça c'est juste pour faire un petit clin d'oeil au transanimalisme.
+Pourquoi les organes abimés?: parce que je voulais toujours garder cette idée de culpabilité dont on avait parlé: l'animal est "blessé" donc on veut le sauvé.
+Quels seront les effets? j'aimerais bien qu'as la fin on se retrouve avec un mix des 2 sortes d'organes, trouver le juste milieu, pour dire qu'il ne faut pas exagérer avec la modification des organes mais que ça peut être tout de même utile. Pour ça il faudrait un marqueur indiquant l'état de santé de l'animal: je pensais alors à intégrer un son par organes et que finalement le tout s’accorde dans une sorte « d’harmonie ».
+
+Technique :
+	Ici, j’ai utilisé Processing comme plateforme pour coder. Plus particulièrement en y ajoutant la librairie NyAR4psg. Celle-ci me permet de lire des images à partir de ma webcam et d’ensuite afficher ce que je veux à l’écran (ici, des modèles 3D et du son).
+	Les modèles 3D ont étés fait à partir de Maya et les images à reconnaitre sur Photoshop. 
+	Pour ce qui en est de la réalisation et des matériaux, j’espérais pouvoir imprimer les visuels réalisés sur Photoshop en bonne qualité sur un carton un peu plus rigide afin qu’ils soient facilement manipulables par les spectateurs (comme les pièces d’un puzzle). Malheureusement, vu les circonstances, je ne pense pas être en mesure de pouvoir produire un travail aussi propre que prévu.
+
+
+
+
+Positionnement artistique :
+
+	Pour commencer, j’ai simplement débuter mes recherches en regardant des prothèses pour animaux. Cela m’a donc inspiré l’idée de culpabilité, le fait de vouloir réparer une erreur commise, ou en tous cas, le fait de vouloir « sauver » une vie.
+	Cela m’as ensuite amenée sur la piste des robots inspirés de la nature, d’où l’esthétique plutôt bio-organique de mes organes plutôt qu’ils soient entièrement mécaniques.
+	Pour continuer sur ma lancé, j’ai donc dérivé sur des artistes comme Eduardo Kac et Stelarc, assez connu dans le milieu. Je me suis plus particulièrement intéressée à Kac, notamment pour  son lapin fluorescent et les questions d’éthiques qui en découlaient. Effectivement, l’aspect bien/mal m’a particulièrement intriguée, c’est pour cela que j’ai quand même voulu laisser l’interprétation de mon travail plutôt libre en ne proposant pas réellement de mauvaise ou de bonne fin.
+	En cherchant un peu plus, je suis tombée sur des artistes comme Beatriz Da Costa et Cina Hazegh (Pigeon Vlog), Dennis Oppenheimer (Fire Deers), Patricia Piccini,… Cependant, bien que leur travail m’ai intéressée, je n’ai pas réellement pu intégrer cela à mon projet. Néamoins, il reste Thomas Grünfeld dont le travail m’a particulièrement touchée de part son côté un peu patchwork/assemblage, ce que j’ai donc un peu retranscrit avec l’aspect « puzzle » de mon projet. J’ai également noté Brandon Ballengée don’t les visuels m’ont beaucoup plu. 
